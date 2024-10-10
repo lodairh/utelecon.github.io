@@ -31,6 +31,7 @@ title: 東京大学のシステム
 - 【学生向け】**[Windows Education for students](/microsoft/windows_education_for_students)**：Windows 10またはWindows 11をEducationエディションにアップグレードするライセンスです．アップグレード用のライセンスであり，クリーンインストールには利用できないことに注意してください．
 - **[UTokyo Microsoft Azure Dev Tools for Teaching](/microsoft/adt4t/)**：Microsoftの開発者用ソフトウェアを提供しています．
 - **[ウイルス対策ソフトウェア包括ライセンス (UTokyo Antivirus License) ](/antivirus/)**：教職員・学生を対象に提供しています．東京大学では，「[情報倫理・コンピュータ利用ガイドライン](https://www.u-tokyo.ac.jp/adm/cie/ja/index.html)」にて，コンピュータについて「適切なウイルス対策」をすることを求めていますので，対策の一環として，適宜利用してください．
+- **[UTokyo Azure (仮称)](/utokyo_azure/)**：(準備中)
 
 ## 学内システム全般
 
